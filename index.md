@@ -8,6 +8,7 @@ When not working on or playing video games, I enjoy sports, reading, board games
 
 # Professional Projects
 - Cadence of Hyrule
+- Industries of Titan
 - Crypt of the Necrodancer
 - My Tribe FB
 - IncrediBots
